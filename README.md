@@ -20,7 +20,7 @@
 ## Сборка и установка
 
 ```bash
-git clone <адрес репозитория>
+git clone https://github.com/wexede/FCS.git
 cd FCS
 ./build.sh
 ```
