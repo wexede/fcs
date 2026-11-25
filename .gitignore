@@ -1,0 +1,5 @@
+FCS.app/
+.build_arm64
+.build_x86
+.DS_Store
+*.zip
